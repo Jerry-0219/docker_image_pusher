@@ -8,3 +8,4 @@ spack/centos7
 ubuntu
 alisaqaq/mcsmanager-web
 alisaqaq/mcsmanager-daemon
+ngc7331/mcsmanager-daemon
