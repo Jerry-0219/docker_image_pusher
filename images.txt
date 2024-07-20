@@ -7,3 +7,4 @@ xhofe/alist:latest
 spack/centos7
 ubuntu
 alisaqaq/mcsmanager-web
+alisaqaq/mcsmanager-daemon
