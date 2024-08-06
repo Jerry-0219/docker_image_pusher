@@ -9,3 +9,4 @@ ubuntu
 alisaqaq/mcsmanager-web
 alisaqaq/mcsmanager-daemon
 ngc7331/mcsmanager-daemon
+networkstatic/iperf3
