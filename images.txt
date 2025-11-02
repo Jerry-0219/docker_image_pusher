@@ -8,3 +8,4 @@ ngc7331/mcsmanager-daemon:latest-jdk21
 ngc7331/mcsmanager-web
 cloudreve/cloudreve
 lmq8267/easytier
+easytier/easytier
