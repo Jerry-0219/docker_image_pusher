@@ -9,3 +9,4 @@ ngc7331/mcsmanager-web
 cloudreve/cloudreve
 lmq8267/easytier
 easytier/easytier
+docker/compose:debian-1.29.2
