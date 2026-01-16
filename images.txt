@@ -8,3 +8,4 @@ ngc7331/mcsmanager-daemon:latest-jdk21
 ngc7331/mcsmanager-web
 cloudreve/cloudreve
 zqzess/easytier-server-web:2.4.3
+wxedge/wxedge
