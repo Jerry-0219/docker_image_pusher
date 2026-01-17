@@ -9,3 +9,4 @@ ngc7331/mcsmanager-web
 cloudreve/cloudreve
 zqzess/easytier-server-web:2.4.3
 onething1/wxedge
+aoyouer/mcsm
